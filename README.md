@@ -1,6 +1,7 @@
+
 # 🤖 FTC Almaty Tech Cup 2025
 
-![Robot](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6c42f2ce-1e68-44f4-a339-47380a5ca9f6" />)
+![Robot](<img width="1280" height="720" alt="photo_2026-08-30_13-54-49" src="https://github.com/user-attachments/assets/ba06ac5e-0e33-44b2-a51f-ae5151d8d190" />)
 
 ## 🏆 Competition
 
