@@ -1,241 +1,529 @@
 # 🤖 FTC Almaty Tech Cup 2025
 
-<img width="1280" height="720" alt="Robot" src="https://github.com/user-attachments/assets/c07102b1-eb77-4e02-b1ab-70c78a3876cd" />
+<p align="center">
+  <img src="YOUR_ROBOT_IMAGE.jpg" width="700">
+</p>
 
-## 🏆 Competition
+<h2 align="center">FIRST Tech Challenge • Almaty, Kazakhstan • 2025</h2>
 
-In 2025, our team participated in the **Almaty Tech Cup**, competing in the **FIRST Tech Challenge (FTC)** category.
-
-The competition was a valuable experience that allowed us to test our robot in a real competitive environment, work as a team, improve our engineering process, and develop our competition strategy.
-
-### 📍 Event
-
-* **Competition:** Almaty Tech Cup 2025
-* **Year:** 2025
-* **Category:** FIRST Tech Challenge (FTC)
-* **Location:** Almaty, Kazakhstan
-* **Result:** **Top 10**
-* **Team:** [TEAM NAME]
+<p align="center">
+  <b>Top 10 Team</b>
+</p>
 
 ---
 
-## 🤖 About the Robot
+# 🏆 Competition Overview
 
-Our robot was designed and built as a team specifically for the FTC competition.
+In 2025, our four-member team participated in the **Almaty Tech Cup**, competing in the **FIRST Tech Challenge (FTC)** category.
 
-The development process included mechanical design, CAD modeling, electronics integration, robot assembly, testing, and competition preparation.
+The competition gave us the opportunity to develop, build, test, and operate our robot in a real competitive environment.
 
-The robot consisted of several mechanical and electronic systems that worked together to complete competition tasks.
+Throughout the project, each team member had a specific responsibility, from CAD and mechanical design to programming, engineering, robot operation, and competition strategy.
+
+### 📍 Competition Information
+
+|                |                            |
+| -------------- | -------------------------- |
+| 🏆 Competition | Almaty Tech Cup 2025       |
+| 🤖 Category    | FIRST Tech Challenge (FTC) |
+| 📍 Location    | Almaty, Kazakhstan         |
+| 📅 Year        | 2025                       |
+| 🏅 Result      | **Top 10**                 |
+| 👥 Team Size   | 4 Members                  |
 
 ---
 
-## 👤 My Role
+# 👥 Our Team
 
-I contributed to the team in two main roles:
+Our team consisted of four members, each with a specific technical and competition role.
 
-### 📐 CAD Designer
+<p align="center">
+  <img src="YOUR_TEAM_PHOTO.jpg" width="700">
+</p>
 
-I worked on the mechanical and CAD side of the robot.
+---
 
-My responsibilities included:
+## 📐 Shoxruxmirzo Xafizov
 
+### CAD Designer • Driver
+
+<p align="center">
+  <img src="YOUR_SHOXRUXMIRZO_PHOTO.jpg" width="300">
+</p>
+
+I worked as a **CAD Designer** and **Driver** on the team.
+
+### My Responsibilities
+
+* CAD design and mechanical development
 * Designing robot components and mechanisms
-* Creating and modifying CAD models
-* Working on the mechanical structure of the robot
-* Improving designs based on testing
-* Preparing designs for manufacturing and assembly
-* Collaborating with the team during the robot development process
+* Modifying and improving mechanical designs
+* Supporting robot assembly
+* Testing mechanical systems
+* Operating the robot during competition
 
-### 🎮 Driver / Operator
+### Competition Role
 
-I was also one of the two drivers operating the robot during the competition.
+I was one of the two drivers.
 
-Our driving system was divided between two team members:
-
-* **My teammate:** controlled the robot's movement and driving
-* **Me:** controlled the robot's manipulator mechanisms
-
-My responsibility during matches was to operate the manipulator systems accurately and coordinate with my teammate to complete tasks efficiently.
-
-This required communication, timing, quick decision-making, and understanding how the robot's mechanisms behaved during a match.
+During matches, I controlled the **robot's manipulator mechanisms**, while the second driver controlled the robot's movement.
 
 ---
 
-## 🎮 Two-Driver System
+## 🔧 Nazarov Asadbek
 
-Our team used a two-driver control system.
+### Engineer • Driver
 
-The responsibilities were divided between the drivers to allow us to control different parts of the robot simultaneously.
+<p align="center">
+  <img src="YOUR_ASADBEK_PHOTO.jpg" width="300">
+</p>
 
-| Driver        | Responsibility             |
-| ------------- | -------------------------- |
-| Driver 1      | Robot movement and driving |
-| Driver 2 — Me | Manipulator mechanisms     |
+Asadbek worked as an **Engineer** and **Driver**.
 
-This setup allowed us to coordinate robot movement and mechanism operation during matches.
+### Responsibilities
+
+* Engineering and technical development
+* Robot assembly
+* Testing mechanical systems
+* Troubleshooting
+* Supporting the development process
+* Improving robot reliability
+
+### Competition Role
+
+Asadbek was the second driver.
+
+He controlled the **movement and driving of the robot**, while I controlled the manipulator mechanisms.
 
 ---
 
-## 📐 CAD & Mechanical Design
+## 💻 Narziyev Akbarshox
 
-CAD was an important part of our robot development process.
+### Coder • Human Player
 
-I used CAD to visualize and develop the mechanical structure and components of the robot before and during the build process.
+<p align="center">
+  <img src="YOUR_AKBARSHOX_PHOTO.jpg" width="300">
+</p>
+
+Akbarshox was responsible for the **coding and software side** of the robot.
+
+### Responsibilities
+
+* Robot programming
+* Software development
+* Testing robot behavior
+* Debugging
+* Supporting autonomous and controlled operation
+
+### Competition Role
+
+During matches, Akbarshox performed the **Human Player** role.
+
+---
+
+## 🎨 Azimov Mirsaid
+
+### Designer • Coach
+
+<p align="center">
+  <img src="YOUR_MIRSAID_PHOTO.jpg" width="300">
+</p>
+
+Mirsaid worked as a **Designer** and supported the team in visual and design-related tasks.
+
+### Responsibilities
+
+* Design-related work
+* Supporting the team's presentation
+* Working with the team during development
+* Helping prepare for competition
+
+### Competition Role
+
+During matches, Mirsaid worked as our **Coach**, helping the team with communication, strategy, and decision-making.
+
+---
+
+# 🎮 Our Competition Roles
+
+Our team used a four-person competition structure with clearly divided responsibilities.
+
+| Team Member              | Technical Role | Competition Role |
+| ------------------------ | -------------- | ---------------- |
+| **Shoxruxmirzo Xafizov** | CAD Designer   | 🎮 Driver        |
+| **Nazarov Asadbek**      | Engineer       | 🎮 Driver        |
+| **Narziyev Akbarshox**   | Coder          | 🕹️ Human Player |
+| **Azimov Mirsaid**       | Designer       | 🎧 Coach         |
+
+---
+
+# 🎮 Driver Team
+
+We used a **two-driver system** during the competition.
+
+### Driver 1 — Shoxruxmirzo
+
+**Controlled:**
+
+* Manipulator mechanisms
+* Robot mechanisms
+
+### Driver 2 — Asadbek
+
+**Controlled:**
+
+* Robot movement
+* Driving
+* Positioning
+
+The two drivers had to communicate and coordinate their actions during matches.
+
+<p align="center">
+  <img src="YOUR_DRIVER_PHOTO.jpg" width="700">
+</p>
+
+---
+
+# 🕹️ Human Player
+
+### Akbarshox — Human Player
+
+<p align="center">
+  <img src="YOUR_HUMAN_PLAYER_BADGE.jpg" width="250">
+</p>
+
+Akbarshox performed the **Human Player** role during the competition.
+
+His role was an important part of our match strategy and required coordination with the drivers and coach.
+
+---
+
+# 🎧 Coach
+
+### Mirsaid — Coach
+
+<p align="center">
+  <img src="YOUR_COACH_BADGE.jpg" width="250">
+</p>
+
+Mirsaid worked as our **Coach** during matches.
+
+The coach helped the team with:
+
+* Communication
+* Strategy
+* Match planning
+* Decision-making
+* Team coordination
+
+---
+
+# 🎮 Driver Badges
+
+<p align="center">
+  <img src="YOUR_DRIVER_BADGE_1.jpg" width="250">
+  <img src="YOUR_DRIVER_BADGE_2.jpg" width="250">
+</p>
+
+These badges represent our two-driver competition roles.
+
+---
+
+# 🤖 Our Robot
+
+<p align="center">
+  <img src="YOUR_FINAL_ROBOT_IMAGE.jpg" width="750">
+</p>
+
+Our robot was developed specifically for the FTC competition.
+
+The development process included mechanical design, CAD, assembly, programming, testing, troubleshooting, and competition preparation.
+
+### Main Development Areas
+
+* 📐 CAD and mechanical design
+* ⚙️ Robot mechanisms
+* 🔧 Engineering and assembly
+* 💻 Programming
+* 🎮 Driver control
+* 🧪 Testing
+* 🏁 Competition preparation
+
+---
+
+# 📐 CAD & Mechanical Design
+
+CAD was an important part of our robot development.
+
+As the team's CAD Designer, I worked on the design and development of mechanical components and robot structures.
 
 ### CAD Work
 
 * Robot structure
 * Mechanical components
 * Manipulator mechanisms
-* Component placement
+* Component positioning
 * Design modifications
 * Manufacturing preparation
 
-### CAD Software
+<p align="center">
+  <img src="YOUR_CAD_IMAGE_1.jpg" width="700">
+</p>
 
-**[ADD YOUR CAD SOFTWARE HERE]**
+<p align="center">
+  <img src="YOUR_CAD_IMAGE_2.jpg" width="700">
+</p>
 
-For example:
-
-* Autodesk Fusion 360
-* SolidWorks
-* Autodesk Inventor
-
----
-
-## 🔧 Engineering Process
-
-Our robot development followed an iterative engineering process:
-
-```text
-Idea
-  ↓
-CAD Design
-  ↓
-Prototype
-  ↓
-Assembly
-  ↓
-Testing
-  ↓
-Problem Identification
-  ↓
-Design Improvement
-  ↓
-Final Robot
-```
-
-We continuously tested and improved the robot throughout the preparation process.
+<p align="center">
+  <img src="YOUR_CAD_IMAGE_3.jpg" width="700">
+</p>
 
 ---
 
-## 🏁 Competition Experience
+# 🔧 Robot Development Process
 
-Participating in Almaty Tech Cup 2025 gave me practical experience in competitive robotics.
+Our robot went through multiple stages of development.
 
-During the competition, I experienced:
+## 01 — Concept
 
-* Working under time pressure
-* Operating a competition robot
-* Coordinating with a teammate
-* Making quick decisions during matches
-* Troubleshooting mechanical problems
-* Adapting to unexpected situations
-* Working as part of an engineering team
+We started by discussing the competition requirements and developing initial ideas for the robot.
 
-Being both a **CAD Designer and Driver/Operator** allowed me to understand the robot from both the design and operation perspectives.
+<p align="center">
+  <img src="YOUR_PROCESS_01.jpg" width="700">
+</p>
 
 ---
 
-## 🏆 Result
+## 02 — CAD Design
 
-Our team finished in the **Top 10** at the **Almaty Tech Cup 2025** in the **FIRST Tech Challenge (FTC)** category.
+The initial robot structure and mechanisms were developed using CAD.
 
-The competition was an important milestone in our team's robotics journey and gave us valuable experience for future international competitions.
-
----
-
-## 📸 Competition Gallery
-
-### 🤖 Robot
-
-<!-- Add your robot photos here -->
-
-![Robot](Media/robot/robot-front.jpg)
-
-### 👥 Team
-
-<!-- Add your team photo here -->
-
-![Team](Media/team/team-photo.jpg)
-
-### 🏟️ Competition
-
-<!-- Add your competition photos here -->
-
-![Competition](Media/competition/competition-01.jpg)
+<p align="center">
+  <img src="YOUR_PROCESS_02.jpg" width="700">
+</p>
 
 ---
 
-## 🎥 Videos
+## 03 — Prototype
 
-Here are videos from our preparation and competition experience.
+We created early versions of the mechanisms and tested different design ideas.
 
-* 🎥 **Competition Video:** [ADD LINK]
-* 🎥 **Robot Demonstration:** [ADD LINK]
-* 🎥 **Match Footage:** [ADD LINK]
+<p align="center">
+  <img src="YOUR_PROCESS_03.jpg" width="700">
+</p>
+
+---
+
+## 04 — Assembly
+
+The mechanical and electronic components were assembled into the complete robot.
+
+<p align="center">
+  <img src="YOUR_PROCESS_04.jpg" width="700">
+</p>
+
+---
+
+## 05 — Testing
+
+We tested the robot and its mechanisms to identify problems and improve performance.
+
+<p align="center">
+  <img src="YOUR_PROCESS_05.jpg" width="700">
+</p>
+
+---
+
+## 06 — Improvements
+
+Based on testing, we modified the robot's design and mechanisms to improve reliability and performance.
+
+<p align="center">
+  <img src="YOUR_PROCESS_06.jpg" width="700">
+</p>
+
+---
+
+## 07 — Final Robot
+
+After development and testing, we prepared the final version of the robot for competition.
+
+<p align="center">
+  <img src="YOUR_FINAL_ROBOT_IMAGE.jpg" width="750">
+</p>
+
+---
+
+# 🧪 Testing & Troubleshooting
+
+Testing was an important part of our development process.
+
+We repeatedly tested:
+
+* Robot movement
+* Manipulator mechanisms
+* Mechanical reliability
+* Driver control
+* Competition scenarios
+
+When problems appeared, we worked together to identify the cause and improve the robot.
+
+<p align="center">
+  <img src="YOUR_TESTING_IMAGE.jpg" width="700">
+</p>
+
+---
+
+# 🏁 Competition Day
+
+<p align="center">
+  <img src="YOUR_COMPETITION_IMAGE_1.jpg" width="700">
+</p>
+
+<p align="center">
+  <img src="YOUR_COMPETITION_IMAGE_2.jpg" width="700">
+</p>
+
+During the competition, our team worked together under time pressure and had to make quick decisions during matches.
+
+The two drivers coordinated robot movement and manipulator operation, while the Human Player and Coach supported the team's match strategy.
+
+---
+
+# 🏆 Achievement
+
+## Almaty Tech Cup 2025
+
+<p align="center">
+  <img src="YOUR_DIPLOMA_IMAGE.jpg" width="650">
+</p>
+
+### 🏅 Result
+
+**Top 10 — FIRST Tech Challenge**
+
+📍 Almaty, Kazakhstan
+📅 2025
+
+This competition became an important experience for our team and helped us develop our skills in competitive robotics, engineering, teamwork, and problem solving.
+
+---
+
+# 🎖️ Competition Role Badges
+
+<p align="center">
+  <img src="YOUR_DRIVER_BADGE_1.jpg" width="220">
+  <img src="YOUR_DRIVER_BADGE_2.jpg" width="220">
+  <img src="YOUR_HUMAN_PLAYER_BADGE.jpg" width="220">
+  <img src="YOUR_COACH_BADGE.jpg" width="220">
+</p>
+
+**Competition Roles:**
+
+🎮 Driver — Shoxruxmirzo
+🎮 Driver — Asadbek
+🕹️ Human Player — Akbarshox
+🎧 Coach — Mirsaid
+
+---
+
+# 📸 Team & Competition Gallery
+
+## 👥 Full Team
+
+<p align="center">
+  <img src="YOUR_TEAM_PHOTO_2.jpg" width="750">
+</p>
+
+## 🤖 Team & Robot
+
+<p align="center">
+  <img src="YOUR_TEAM_ROBOT_PHOTO.jpg" width="750">
+</p>
+
+## 🏟️ Competition
+
+<p align="center">
+  <img src="YOUR_COMPETITION_IMAGE_3.jpg" width="700">
+</p>
+
+<p align="center">
+  <img src="YOUR_COMPETITION_IMAGE_4.jpg" width="700">
+</p>
+
+---
+
+# 🎥 Videos
+
+Videos from our robot development and competition experience:
+
+* 🎥 **Robot Development:** [VIDEO LINK]
+* 🎥 **Competition:** [VIDEO LINK]
+* 🎥 **Match Footage:** [VIDEO LINK]
+* 🎥 **Robot Demonstration:** [VIDEO LINK]
+
+---
+
+# 🧠 Skills Developed
+
+Through this project, our team developed practical experience in:
+
+### Technical
+
+* 🤖 FIRST Tech Challenge
+* 📐 CAD Design
+* 🔧 Mechanical Engineering
+* 💻 Robot Programming
+* ⚙️ Mechanism Development
+* 🔌 Electronics
+* 🧪 Testing & Troubleshooting
+
+### Competition
+
+* 🎮 Driver Operation
+* 🕹️ Human Player
+* 🎧 Coaching
+* 🏁 Competition Strategy
+* 🤝 Team Communication
+* ⚡ Quick Decision Making
+* ⏱️ Working Under Pressure
+
+---
+
+# 📚 What We Learned
+
+Almaty Tech Cup 2025 taught us that competitive robotics is not only about building a robot.
+
+A successful robot requires:
+
+**Design → Engineering → Programming → Testing → Communication → Strategy**
+
+Working as a four-person team also taught us how important it is to divide responsibilities, communicate effectively, and support each other during competition.
+
+For me personally, working as both a **CAD Designer and Driver** helped me understand the connection between robot design and real-world performance during matches.
+
+---
+
+# 🚀 Project Outcome
+
+Participating in the **Almaty Tech Cup 2025** gave our team valuable experience in competitive robotics.
+
+Our team reached the **Top 10** in the FIRST Tech Challenge category and gained practical experience in robot design, engineering, programming, driving, coaching, and competition strategy.
+
+This project is an important part of our robotics journey and motivates us to continue developing more advanced robots and engineering projects.
 
 ---
 
 ## 👥 Team
 
-### Team: [TEAM NAME]
-
-Our team worked together across different areas of robotics, including mechanical design, CAD, robot operation, engineering, and competition strategy.
-
-**Team Members:**
-
-* [Member 1]
-* [Member 2]
-* [Member 3]
-* [Member 4]
-* [Member 5]
+**Shoxruxmirzo Xafizov** — CAD Designer / Driver
+**Nazarov Asadbek** — Engineer / Driver
+**Narziyev Akbarshox** — Coder / Human Player
+**Azimov Mirsaid** — Designer / Coach
 
 ---
 
-## 🧠 Skills & Experience
-
-Through this project, I developed practical experience in:
-
-* 🤖 FIRST Tech Challenge
-* 📐 CAD Design
-* 🔧 Mechanical Engineering
-* 🎮 Robot Operation
-* ⚙️ Mechanism Design
-* 🧩 Problem Solving
-* 🤝 Teamwork
-* 🏁 Competition Robotics
-* ⏱️ Working Under Pressure
-* 🔄 Iterative Design
-
----
-
-## 📚 What I Learned
-
-This project taught me that successful robotics is not only about building a robot. It also requires effective communication, careful design, testing, quick problem-solving, and teamwork.
-
-Working as both a **CAD Designer and Driver/Operator** helped me understand how mechanical design decisions directly affect robot performance during a competition.
-
-The experience strengthened my interest in robotics engineering and encouraged me to continue developing my skills in CAD, mechanical design, electronics, and competitive robotics.
-
----
-
-## 📌 Project Status
-
-**Completed — Almaty Tech Cup 2025**
-
-🏆 **Top 10 — FIRST Tech Challenge**
-
-📍 **Almaty, Kazakhstan**
-
-📅 **2025**
+<p align="center">
+  <b>🤖 Built as a team. Tested under pressure. Driven by robotics.</b>
+</p>
+<img width="1280" height="720" alt="Robot" src="https://github.com/user-attachments/assets/7de2d385-5ff6-4e88-a282-0fc53d3ac303" />
