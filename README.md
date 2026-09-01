@@ -407,7 +407,8 @@ The two drivers coordinated robot movement and manipulator operation, while the 
 ## Almaty Tech Cup 2025
 
 <p align="center">
-  <img src="YOUR_DIPLOMA_IMAGE.jpg" width="650">
+ <img width="960" height="1280" alt="dddd" src="https://github.com/user-attachments/assets/69346a09-9d94-4d50-a11d-ba2c9ec0949b" />
+
 </p>
 
 ### 🏅 Result
@@ -424,10 +425,7 @@ This competition became an important experience for our team and helped us devel
 # 🎖️ Competition Role Badges
 
 <p align="center">
-  <img src="YOUR_DRIVER_BADGE_1.jpg" width="220">
-  <img src="YOUR_DRIVER_BADGE_2.jpg" width="220">
-  <img src="YOUR_HUMAN_PLAYER_BADGE.jpg" width="220">
-  <img src="YOUR_COACH_BADGE.jpg" width="220">
+  
 </p>
 
 **Competition Roles:**
