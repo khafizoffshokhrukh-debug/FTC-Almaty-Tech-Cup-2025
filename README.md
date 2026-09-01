@@ -1,4 +1,4 @@
-# 🤖 FTC Almaty Tech Cup 2025
+<img width="1578" height="1018" alt="Снимок экрана 2025-04-18 215853" src="https://github.com/user-attachments/assets/f225820c-b878-4042-ba13-4bf16c101def" /># 🤖 FTC Almaty Tech Cup 2025
 
 <p align="center">
 
@@ -195,7 +195,8 @@ The two drivers had to communicate and coordinate their actions during matches.
 ### Akbarshox — Human Player
 
 <p align="center">
-  <img src="YOUR_HUMAN_PLAYER_BADGE.jpg" width="250">
+<img width="1280" height="960" alt="human" src="https://github.com/user-attachments/assets/2e677d20-47d5-4aaa-b5ad-cfcd632ce623" />
+
 </p>
 
 Akbarshox performed the **Human Player** role during the competition.
@@ -209,7 +210,7 @@ His role was an important part of our match strategy and required coordination w
 ### Mirsaid — Coach
 
 <p align="center">
-  <img src="YOUR_COACH_BADGE.jpg" width="250">
+ 
 </p>
 
 Mirsaid worked as our **Coach** during matches.
@@ -273,15 +274,18 @@ As the team's CAD Designer, I worked on the design and development of mechanical
 * Manufacturing preparation
 
 <p align="center">
-  <img src="YOUR_CAD_IMAGE_1.jpg" width="700">
+ <img width="919" height="784" alt="cad" src="https://github.com/user-attachments/assets/d02d786a-b90f-4840-adfb-f4d110cc173d" />
+
 </p>
 
 <p align="center">
-  <img src="YOUR_CAD_IMAGE_2.jpg" width="700">
+ <img width="1101" height="863" alt="Снимок экрана 2025-03-18 223728" src="https://github.com/user-attachments/assets/59677417-127c-4446-b4c8-2dfc6d9194ab" />
+
 </p>
 
 <p align="center">
-  <img src="YOUR_CAD_IMAGE_3.jpg" width="700">
+<img width="1790" height="1140" alt="Снимок экрана 2025-04-16 182635" src="https://github.com/user-attachments/assets/eac76310-8635-46b3-8f21-af9b2da180e0" />
+
 </p>
 
 ---
