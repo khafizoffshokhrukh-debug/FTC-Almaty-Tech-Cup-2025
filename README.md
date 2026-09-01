@@ -1,4 +1,4 @@
-<img width="1578" height="1018" alt="Снимок экрана 2025-04-18 215853" src="https://github.com/user-attachments/assets/f225820c-b878-4042-ba13-4bf16c101def" /># 🤖 FTC Almaty Tech Cup 2025
+ /># 🤖 FTC Almaty Tech Cup 2025
 
 <p align="center">
 
