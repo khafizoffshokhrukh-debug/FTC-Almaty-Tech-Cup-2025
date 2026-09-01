@@ -49,7 +49,8 @@ Our team consisted of four members, each with a specific technical and competiti
 ### CAD Designer • Driver
 
 <p align="center">
-  <img src="YOUR_SHOXRUXMIRZO_PHOTO.jpg" width="300">
+  <img width="1207" height="1655" alt="IMG_20260228_102145_588_LE_upscale_prime" src="https://github.com/user-attachments/assets/1c19cb0c-3632-49a1-8777-e76ab2a21ca7" />
+
 </p>
 
 I worked as a **CAD Designer** and **Driver** on the team.
