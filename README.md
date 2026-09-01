@@ -1,7 +1,8 @@
 # 🤖 FTC Almaty Tech Cup 2025
 
 <p align="center">
-  <img src="YOUR_ROBOT_IMAGE.jpg" width="700">
+ <img width="1280" height="720" alt="Robot" src="https://github.com/user-attachments/assets/a5166836-a4e1-49ad-94ac-1aecd70528f5" />
+
 </p>
 
 <h2 align="center">FIRST Tech Challenge • Almaty, Kazakhstan • 2025</h2>
