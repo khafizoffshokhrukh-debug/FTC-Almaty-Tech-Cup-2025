@@ -1,7 +1,8 @@
 # 🤖 FTC Almaty Tech Cup 2025
 
 <p align="center">
- <img width="1280" height="720" alt="Robot" src="https://github.com/user-attachments/assets/a5166836-a4e1-49ad-94ac-1aecd70528f5" />
+
+<img width="1280" height="1051" alt="ftc" src="https://github.com/user-attachments/assets/46f357a6-f91a-4603-be5c-5bd7dae610c6" />
 
 </p>
 
