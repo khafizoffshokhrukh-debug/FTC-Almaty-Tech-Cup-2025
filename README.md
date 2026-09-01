@@ -131,7 +131,8 @@ During matches, Akbarshox performed the **Human Player** role.
 ### Designer • Coach
 
 <p align="center">
-  <img src="YOUR_MIRSAID_PHOTO.jpg" width="300">
+ <img width="944" height="1260" alt="IMG_20260901_215237_180" src="https://github.com/user-attachments/assets/63a999fd-764f-40aa-aba4-c96f508329c0" />
+
 </p>
 
 Mirsaid worked as a **Designer** and supported the team in visual and design-related tasks.
@@ -225,11 +226,12 @@ The coach helped the team with:
 
 ---
 
-# 🎮 Driver Badges
+# 🎮 Driver, Coach and Human player Badges
 
 <p align="center">
-  <img src="YOUR_DRIVER_BADGE_1.jpg" width="250">
-  <img src="YOUR_DRIVER_BADGE_2.jpg" width="250">
+<img width="960" height="1280" alt="human player" src="https://github.com/user-attachments/assets/b0f57d55-aedf-4b41-9fca-a63fa76ac754" />
+<img width="960" height="1280" alt="driver" src="https://github.com/user-attachments/assets/6a9b3741-560e-461c-8418-7d8fe7c3c541" />
+<img width="960" height="1280" alt="coach" src="https://github.com/user-attachments/assets/b7f21a53-2f7b-4b08-b856-a0592f3cda6e" />
 </p>
 
 These badges represent our two-driver competition roles.
