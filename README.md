@@ -77,7 +77,8 @@ During matches, I controlled the **robot's manipulator mechanisms**, while the s
 ### Engineer • Driver
 
 <p align="center">
-  <img src="YOUR_ASADBEK_PHOTO.jpg" width="300">
+ <img width="960" height="1280" alt="asad 23" src="https://github.com/user-attachments/assets/7d546d4f-bba8-4fa8-9cfe-d28b42f94b31" />
+
 </p>
 
 Asadbek worked as an **Engineer** and **Driver**.
@@ -104,7 +105,8 @@ He controlled the **movement and driving of the robot**, while I controlled the 
 ### Coder • Human Player
 
 <p align="center">
-  <img src="YOUR_AKBARSHOX_PHOTO.jpg" width="300">
+ <img width="960" height="1280" alt="akabar" src="https://github.com/user-attachments/assets/97cd78cf-084e-477e-8065-ffedaed58217" />
+
 </p>
 
 Akbarshox was responsible for the **coding and software side** of the robot.
