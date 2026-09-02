@@ -298,7 +298,8 @@ Our robot went through multiple stages of development.
 We started by discussing the competition requirements and developing initial ideas for the robot.
 
 <p align="center">
- <img width="1109" height="668" alt="photo_2025-01-23_22-52-40" src="https://github.com/user-attachments/assets/87063d69-3ea9-4080-88b1-9965c5431968" />
+<img width="1239" height="1040" alt="photo_2025-03-12_22-12-46" src="https://github.com/user-attachments/assets/c9bf8e58-3523-4c5d-84f2-5504aeae76f3" />
+
 
 </p>
 
