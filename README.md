@@ -425,23 +425,24 @@ This competition became an important experience for our team and helped us devel
 ## 👥 Full Team
 
 <p align="center">
-  <img src="YOUR_TEAM_PHOTO_2.jpg" width="750">
+ <img width="846" height="931" alt="photo_2026-09-02_10-22-30" src="https://github.com/user-attachments/assets/6187c4da-9589-4b5c-9a89-f0793c3ed1b0" />
 </p>
 
 ## 🤖 Team & Robot
 
 <p align="center">
-  <img src="YOUR_TEAM_ROBOT_PHOTO.jpg" width="750">
+<img width="1280" height="960" alt="photo_2025-02-22_13-21-45" src="https://github.com/user-attachments/assets/edfaa9d9-0da8-4d94-ad59-abfe73b0fe55" />
+
+
 </p>
 
 ## 🏟️ Competition
 
-<p align="center">
-  <img src="YOUR_COMPETITION_IMAGE_3.jpg" width="700">
-</p>
+
 
 <p align="center">
-  <img src="YOUR_COMPETITION_IMAGE_4.jpg" width="700">
+<img width="1280" height="960" alt="human" src="https://github.com/user-attachments/assets/1307cd4b-9f03-4ecb-b16d-c766722a6707" />
+
 </p>
 
 ---
