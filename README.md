@@ -185,7 +185,7 @@ We used a **two-driver system** during the competition.
 The two drivers had to communicate and coordinate their actions during matches.
 
 <p align="center">
-  <img width="727" height="1280" alt="driving" src="https://github.com/user-attachments/assets/6c5e8cc3-3bb7-47c9-a20e-852d34820167" />
+  <img width="500" height="700" alt="driving" src="https://github.com/user-attachments/assets/6c5e8cc3-3bb7-47c9-a20e-852d34820167" />
 
 </p>
 
