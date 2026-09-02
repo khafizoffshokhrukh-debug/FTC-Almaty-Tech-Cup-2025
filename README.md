@@ -229,8 +229,7 @@ The coach helped the team with:
 # 🎮 Driver, Coach and Human player Badges
 
 <p align="center">
-<img width="960" height="1280" alt="human player" src="https://github.com/user-attachments/assets/b0f57d55-aedf-4b41-9fca-a63fa76ac754" />
-<img width="960" height="1280" alt="driver" src="https://github.com/user-attachments/assets/6a9b3741-560e-461c-8418-7d8fe7c3c541" />
+<img width="500" height="700" alt="human player" src="https://github.com/user-attachments/assets/b0f57d55-aedf-4b41-9fca-a63fa76ac754" /><img width="500" height="700" alt="driver" src="https://github.com/user-attachments/assets/6a9b3741-560e-461c-8418-7d8fe7c3c541" />
 <img width="960" height="1280" alt="coach" src="https://github.com/user-attachments/assets/b7f21a53-2f7b-4b08-b856-a0592f3cda6e" />
 </p>
 
