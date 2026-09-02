@@ -275,12 +275,12 @@ As the team's CAD Designer, I worked on the design and development of mechanical
 * Manufacturing preparation
 
 <p align="center">
- <img width="400" height="700" alt="cad" src="https://github.com/user-attachments/assets/d02d786a-b90f-4840-adfb-f4d110cc173d" /><img width="400" height="700" alt="Снимок экрана 2025-03-18 223728" src="https://github.com/user-attachments/assets/59677417-127c-4446-b4c8-2dfc6d9194ab" />
+ <img width="600" height="700" alt="cad" src="https://github.com/user-attachments/assets/d02d786a-b90f-4840-adfb-f4d110cc173d" /><img width="600" height="700" alt="Снимок экрана 2025-03-18 223728" src="https://github.com/user-attachments/assets/59677417-127c-4446-b4c8-2dfc6d9194ab" />
 
 </p>
 
 <p align="center">
-<img width="400" height="700" alt="Снимок экрана 2025-04-16 182635" src="https://github.com/user-attachments/assets/eac76310-8635-46b3-8f21-af9b2da180e0" />
+<img width="600" height="700" alt="Снимок экрана 2025-04-16 182635" src="https://github.com/user-attachments/assets/eac76310-8635-46b3-8f21-af9b2da180e0" />
 
 </p>
 
