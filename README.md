@@ -50,7 +50,7 @@ Our team consisted of four members, each with a specific technical and competiti
 ### CAD Designer • Driver
 
 <p align="center">
-  <img width="600" height="800" alt="IMG_20260228_102145_588_LE_upscale_prime" src="https://github.com/user-attachments/assets/1c19cb0c-3632-49a1-8777-e76ab2a21ca7" />
+  <img width="500" height="700" alt="IMG_20260228_102145_588_LE_upscale_prime" src="https://github.com/user-attachments/assets/1c19cb0c-3632-49a1-8777-e76ab2a21ca7" />
 
 </p>
 
@@ -78,7 +78,7 @@ During matches, I controlled the **robot's manipulator mechanisms**, while the s
 ### Engineer • Driver
 
 <p align="center">
- <img width="960" height="1280" alt="asad 23" src="https://github.com/user-attachments/assets/7d546d4f-bba8-4fa8-9cfe-d28b42f94b31" />
+ <img width="500" height="700" alt="asad 23" src="https://github.com/user-attachments/assets/7d546d4f-bba8-4fa8-9cfe-d28b42f94b31" />
 
 </p>
 
@@ -106,7 +106,7 @@ He controlled the **movement and driving of the robot**, while I controlled the 
 ### Coder • Human Player
 
 <p align="center">
- <img width="960" height="1280" alt="akabar" src="https://github.com/user-attachments/assets/97cd78cf-084e-477e-8065-ffedaed58217" />
+ <img width="500" height="700" alt="akabar" src="https://github.com/user-attachments/assets/97cd78cf-084e-477e-8065-ffedaed58217" />
 
 </p>
 
@@ -131,7 +131,7 @@ During matches, Akbarshox performed the **Human Player** role.
 ### Designer • Coach
 
 <p align="center">
- <img width="944" height="1260" alt="IMG_20260901_215237_180" src="https://github.com/user-attachments/assets/63a999fd-764f-40aa-aba4-c96f508329c0" />
+ <img width="500" height="700" alt="IMG_20260901_215237_180" src="https://github.com/user-attachments/assets/63a999fd-764f-40aa-aba4-c96f508329c0" />
 
 </p>
 
