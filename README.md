@@ -298,7 +298,8 @@ Our robot went through multiple stages of development.
 We started by discussing the competition requirements and developing initial ideas for the robot.
 
 <p align="center">
-  <img src="YOUR_PROCESS_01.jpg" width="700">
+ <img width="1109" height="668" alt="photo_2025-01-23_22-52-40" src="https://github.com/user-attachments/assets/87063d69-3ea9-4080-88b1-9965c5431968" />
+
 </p>
 
 ---
@@ -308,7 +309,8 @@ We started by discussing the competition requirements and developing initial ide
 The initial robot structure and mechanisms were developed using CAD.
 
 <p align="center">
-  <img src="YOUR_PROCESS_02.jpg" width="700">
+  <img width="915" height="714" alt="photo_2025-03-18_14-38-25" src="https://github.com/user-attachments/assets/3bebeedc-dd4a-4750-97fc-1d3aec711051" />
+
 </p>
 
 ---
@@ -318,7 +320,8 @@ The initial robot structure and mechanisms were developed using CAD.
 We created early versions of the mechanisms and tested different design ideas.
 
 <p align="center">
-  <img src="YOUR_PROCESS_03.jpg" width="700">
+ <img width="1109" height="668" alt="photo_2025-01-23_22-52-40" src="https://github.com/user-attachments/assets/b3393590-f768-4c87-8bfe-2b3d4d1a555c" />
+
 </p>
 
 ---
@@ -328,7 +331,8 @@ We created early versions of the mechanisms and tested different design ideas.
 The mechanical and electronic components were assembled into the complete robot.
 
 <p align="center">
-  <img src="YOUR_PROCESS_04.jpg" width="700">
+ <img width="306" height="261" alt="Снимок экрана 2026-09-02 101839" src="https://github.com/user-attachments/assets/30de6943-6506-4da6-a6a4-ff2e039f28fa" />
+
 </p>
 
 ---
@@ -338,30 +342,12 @@ The mechanical and electronic components were assembled into the complete robot.
 We tested the robot and its mechanisms to identify problems and improve performance.
 
 <p align="center">
-  <img src="YOUR_PROCESS_05.jpg" width="700">
+  
 </p>
 
 ---
 
-## 06 — Improvements
 
-Based on testing, we modified the robot's design and mechanisms to improve reliability and performance.
-
-<p align="center">
-  <img src="YOUR_PROCESS_06.jpg" width="700">
-</p>
-
----
-
-## 07 — Final Robot
-
-After development and testing, we prepared the final version of the robot for competition.
-
-<p align="center">
-  <img src="YOUR_FINAL_ROBOT_IMAGE.jpg" width="750">
-</p>
-
----
 
 # 🧪 Testing & Troubleshooting
 
