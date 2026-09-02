@@ -230,7 +230,7 @@ The coach helped the team with:
 
 <p align="center">
 <img width="500" height="700" alt="human player" src="https://github.com/user-attachments/assets/b0f57d55-aedf-4b41-9fca-a63fa76ac754" /><img width="500" height="700" alt="driver" src="https://github.com/user-attachments/assets/6a9b3741-560e-461c-8418-7d8fe7c3c541" />
-<img width="960" height="1280" alt="coach" src="https://github.com/user-attachments/assets/b7f21a53-2f7b-4b08-b856-a0592f3cda6e" />
+<img width="500" height="700" alt="coach" src="https://github.com/user-attachments/assets/b7f21a53-2f7b-4b08-b856-a0592f3cda6e" />
 </p>
 
 These badges represent our two-driver competition roles.
@@ -275,17 +275,12 @@ As the team's CAD Designer, I worked on the design and development of mechanical
 * Manufacturing preparation
 
 <p align="center">
- <img width="919" height="784" alt="cad" src="https://github.com/user-attachments/assets/d02d786a-b90f-4840-adfb-f4d110cc173d" />
+ <img width="500" height="700" alt="cad" src="https://github.com/user-attachments/assets/d02d786a-b90f-4840-adfb-f4d110cc173d" /><img width="500" height="700" alt="Снимок экрана 2025-03-18 223728" src="https://github.com/user-attachments/assets/59677417-127c-4446-b4c8-2dfc6d9194ab" />
 
 </p>
 
 <p align="center">
- <img width="1101" height="863" alt="Снимок экрана 2025-03-18 223728" src="https://github.com/user-attachments/assets/59677417-127c-4446-b4c8-2dfc6d9194ab" />
-
-</p>
-
-<p align="center">
-<img width="1790" height="1140" alt="Снимок экрана 2025-04-16 182635" src="https://github.com/user-attachments/assets/eac76310-8635-46b3-8f21-af9b2da180e0" />
+<img width="500" height="700" alt="Снимок экрана 2025-04-16 182635" src="https://github.com/user-attachments/assets/eac76310-8635-46b3-8f21-af9b2da180e0" />
 
 </p>
 
