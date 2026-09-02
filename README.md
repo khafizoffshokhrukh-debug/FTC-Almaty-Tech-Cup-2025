@@ -451,10 +451,9 @@ This competition became an important experience for our team and helped us devel
 
 Videos from our robot development and competition experience:
 
-* 🎥 **Robot Development:** [VIDEO LINK]
-* 🎥 **Competition:** [VIDEO LINK]
-* 🎥 **Match Footage:** [VIDEO LINK]
-* 🎥 **Robot Demonstration:** [VIDEO LINK]
+* 🎥 **Telop training:** [(https://www.youtube.com/shorts/fwqq_3xS0Bo)]
+* 🎥 **Autonomous Basket training:** [https://www.youtube.com/shorts/oh3LvtvCnps ]
+* 🎥 **Autonomous chamber training:** [(https://www.youtube.com/shorts/elgwedObaC8) LINK]
 
 ---
 
