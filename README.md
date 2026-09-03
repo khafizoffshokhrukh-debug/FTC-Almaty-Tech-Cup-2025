@@ -38,7 +38,8 @@ Throughout the project, each team member had a specific responsibility, from CAD
 Our team consisted of four members, each with a specific technical and competition role.
 
 <p align="center">
-  <img src="YOUR_TEAM_PHOTO.jpg" width="700">
+   <img width="846" height="931" alt="photo_2026-09-02_10-22-30" src="https://github.com/user-attachments/assets/a349dc7f-9c55-4487-ad59-c0e6be79d41a" />
+
 </p>
 
 ---
