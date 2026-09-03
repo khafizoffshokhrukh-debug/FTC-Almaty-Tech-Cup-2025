@@ -344,13 +344,7 @@ The mechanical and electronic components were assembled into the complete robot.
 
 We tested the robot and its mechanisms to identify problems and improve performance.
 
-<p align="center">
-  
 
-https://github.com/user-attachments/assets/983770c2-a698-4382-92a0-3f04c9168079
-
-
-</p>
 
 ---
 
@@ -370,9 +364,6 @@ We repeatedly tested:
 
 When problems appeared, we worked together to identify the cause and improve the robot.
 
-<p align="center">
-  <img src="YOUR_TESTING_IMAGE.jpg" width="700">
-</p>
 
 ---
 
