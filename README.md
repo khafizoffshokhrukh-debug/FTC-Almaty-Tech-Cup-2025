@@ -239,7 +239,8 @@ These badges represent our two-driver competition roles.
 # 🤖 Our Robot
 
 <p align="center">
-  <img src="YOUR_FINAL_ROBOT_IMAGE.jpg" width="750">
+  <img width="370" height="414" alt="Снимок экрана 2026-09-03 124856" src="https://github.com/user-attachments/assets/055e5a29-4eb2-487a-bf95-659d0d4ac7e8" />
+
 </p>
 
 Our robot was developed specifically for the FTC competition.
@@ -261,6 +262,7 @@ The development process included mechanical design, CAD, assembly, programming, 
 # 📐 CAD & Mechanical Design
 
 CAD was an important part of our robot development.
+<img width="370" height="414" alt="Снимок экрана 2026-09-03 124856" src="https://github.com/user-attachments/assets/bb62fe74-478a-4c44-9f62-d59260981795" />
 
 As the team's CAD Designer, I worked on the design and development of mechanical components and robot structures.
 
@@ -343,6 +345,10 @@ We tested the robot and its mechanisms to identify problems and improve performa
 
 <p align="center">
   
+
+https://github.com/user-attachments/assets/983770c2-a698-4382-92a0-3f04c9168079
+
+
 </p>
 
 ---
