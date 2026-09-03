@@ -1,12 +1,10 @@
- /># 🤖 FTC Almaty Tech Cup 2025
+🤖 FTC Almaty Tech Cup 2025
 
 <p align="center">
 
 <img width="1280" height="1051" alt="ftc" src="https://github.com/user-attachments/assets/46f357a6-f91a-4603-be5c-5bd7dae610c6" />
 
-</p>
 
-<h2 align="center">FIRST Tech Challenge • Almaty, Kazakhstan • 2025</h2>
 
 <p align="center">
   <b>Top 10 Team</b>
