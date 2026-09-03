@@ -262,7 +262,8 @@ The development process included mechanical design, CAD, assembly, programming, 
 # 📐 CAD & Mechanical Design
 
 CAD was an important part of our robot development.
-<img width="370" height="414" alt="Снимок экрана 2026-09-03 124856" src="https://github.com/user-attachments/assets/bb62fe74-478a-4c44-9f62-d59260981795" />
+<img width="986" height="862" alt="photo_2025-04-21_23-44-54" src="https://github.com/user-attachments/assets/9bc10991-b0d5-4682-843f-3d6953dd18ba" />
+
 
 As the team's CAD Designer, I worked on the design and development of mechanical components and robot structures.
 
