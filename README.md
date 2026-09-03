@@ -369,13 +369,7 @@ When problems appeared, we worked together to identify the cause and improve the
 
 # 🏁 Competition Day
 
-<p align="center">
-  <img src="YOUR_COMPETITION_IMAGE_1.jpg" width="700">
-</p>
 
-<p align="center">
-  <img src="YOUR_COMPETITION_IMAGE_2.jpg" width="700">
-</p>
 
 During the competition, our team worked together under time pressure and had to make quick decisions during matches.
 
