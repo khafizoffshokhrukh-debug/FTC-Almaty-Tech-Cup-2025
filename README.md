@@ -1,4 +1,4 @@
-🤖 FTC Almaty Tech Cup 2025
+🤖 FTC Almaty Tech Cup 2025 #28865
 
 <p align="center">
 
